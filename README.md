@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">✨ Creating bugs since the first time I touched JavaScript<br>📚 I'm currently learning MERN stack development and building real-world web applications<br>🎯 Goals: To become a proficient full-stack developer and work on impactful tech products<br>🎲 Fun fact: I produce music and play guitar when I'm not debugging my code</p>
+<p align="left">💼 Currently working as a QA Intern
+✨ Creating bugs since the first time I touched JavaScript<br>📚 I'm currently learning MERN stack development and building real-world web applications<br>🎯 Goals: To become a proficient full-stack developer and work on impactful tech products<br>🎲 Fun fact: I produce music and play guitar when I'm not debugging my code</p>
 
 ###
 
